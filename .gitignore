@@ -1,0 +1,4 @@
+venv
+script.py
+__pycache__
+.idea/
